@@ -3,3 +3,4 @@ Select
 ChromeDriver
 FireFoxDriver
 RemoteWebDriver
+Synchronization
